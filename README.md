@@ -2,25 +2,9 @@
 
 link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
 
-Feel free donate to my EVM address
-
-EVM :
-
-```bash
-0x471232caf1c2cFE884c9Dd363Eb4a9bd9F4bf5D9
-```
-
 ## Steps
 
 ### 1. Clone Repository
-
-```bash
-git clone https://github.com/wuya51/swisstronik-erc721-Private-NFT.git
-```
-
-```
-cd swisstronik-erc721-Private-NFT
-```
 
 ### 2. Install Dependency
 
@@ -107,8 +91,3 @@ npm run mint
 - Open the tx-hash.txt (location in utils folder)
 - Copy the address and paste the tx hash link into testnet dashboard
 - push this project to your github and paste your repository link in testnet dashboard
-
-by :
-github : [wuya51](https://github.com/wuya51)
-twitter : @wuya518
-telegram : @crow51
